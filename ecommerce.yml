@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: my-256-bit-secret-key-default
+  secret: my-256-bit-secret-key-native
 
 gateway:
   ip: 172.18.0.1
